@@ -4,7 +4,7 @@
  
  How to install 
  
-   Windows
+ Windows
  - Clone repository
  - Run with Picture to ASCII.vcxproj
  
