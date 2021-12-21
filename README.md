@@ -2,9 +2,7 @@
  
  SFML project whith inGUI
  
- How to install 
- 
- Windows
+ How to install on Windows
  - Clone repository
  - Run with Picture to ASCII.vcxproj
  
